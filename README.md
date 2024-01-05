@@ -38,12 +38,14 @@
 <br>
 <br>
 
-# 🔎 *Profile*
+# 🔎 *Profile* <img align='right' src="https://github-readme-stats.vercel.app/api?username=yujin" height="180"> 
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api)](https://github.com/anuraghazra/github-readme-stats)
-
+- 항상 좋은 코드를 고민합니다.
+- 끊임없이 성장에 대해 고민하고 지속적으로 학습합니다.
+- 좋은 서비스를 만드는 개발자가 되고싶습니다.
+- 
 <br>
 
 ### **🏆 Awards**
