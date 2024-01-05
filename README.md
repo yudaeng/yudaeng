@@ -12,6 +12,8 @@
 
 # 🛠 Skills
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/>
@@ -38,9 +40,6 @@
 
 # 🔎 Profile
 
-항상 좋은 서비스를 만드는 개발자가 되고싶어요.
-
-<br>
 <br>
 
 **🏆 Awards**
