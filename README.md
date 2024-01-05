@@ -42,7 +42,7 @@
 
 <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yujin" height="180"> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yujin&hide_title=true&show_icons=true&theme=swift" height="100"> 
 
 
 - 항상 좋은 코드를 고민합니다.
