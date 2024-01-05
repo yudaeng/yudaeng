@@ -42,11 +42,8 @@
 
 <br>
 
-- 항상 좋은 코드를 고민합니다.
-- 끊임없이 성장에 대해 고민하고 지속적으로 학습합니다.
-- 좋은 서비스를 만드는 개발자가 되고싶습니다.
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [!(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
 <br>
 
 ### **🏆 Awards**
