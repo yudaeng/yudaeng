@@ -8,14 +8,13 @@
 <br>
 <br>
 
-## 🛠 Skills
+# 🛠 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-sqare&logo=python&logoColor=ffdd54)
 <br>
-
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 <br>
@@ -24,16 +23,22 @@
 <br>
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 <br>
-
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 
 
-## 🔎 Profile
+# 🔎 Profile
 
-**🏆 Awards** <br>
+<br>
+
+-항상 노력하는 개발자 신유진입니다.
+-
+
+**🏆 Awards**
+-[2023.11.24] 대한전자공학회 산업전자소사이어티 제 6회 ITC 창의융합 캡스톤 디자인 경진대회 우수상
+-[2023.12.04] 명지전문대학 컴퓨터공학과 캡스톤 경진대회 우수상
+
 **✏️ Study**
 
 
