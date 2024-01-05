@@ -4,7 +4,7 @@
 
 ## 🔎 Profile
 
-**🏆 Awards**
+__🏆 Awards__
 **✏️ Study**
 
 
