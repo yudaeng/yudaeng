@@ -11,6 +11,7 @@
 <br>
 
 # 🛠 Skills
+<p align="center">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -28,13 +29,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
+</p>
 
 <br>
 <br>
 
 # 🔎 Profile
 
-좋은 서비스를 만드는 개발자가 되고싶어요.
+항상 좋은 서비스를 만드는 개발자가 되고싶어요.
 
 <br>
 <br>
