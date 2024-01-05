@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💖 Hi I'm youjin&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=capsule%20render&fontSize=90"/>
 
 
 ## 🛠 Skills
