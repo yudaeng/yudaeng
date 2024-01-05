@@ -1,3 +1,5 @@
+<br>
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,6 +29,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 
+<br>
+<br>
 
 # 🔎 Profile
 
