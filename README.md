@@ -1,11 +1,11 @@
-## 💖 Hi I'm youjin
+### 💖 Hi I'm youjin
 
 ## 🛠 Skills
 
 ## 🔎 Profile
 
-# 🏆 Awards
-# ✏️ Study
+**🏆 Awards**
+**✏️ Study**
 
 
 
