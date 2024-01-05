@@ -1,3 +1,3 @@
-### 👋 Hi I'm youjin
+## 👋 Hi I'm youjin
 
-# Skills
+🛠 Skills
