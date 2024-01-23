@@ -45,9 +45,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yudaeng&hide_title=true&show_icons=true&theme=graywhite" height="140"> 
 
 
-- 항상 좋은 코드를 고민합니다.
+- 항상 유지보수하기 쉬운 코드를 개발하고 재사용성이 높은 코드를 개발합니다.
 - 끊임없이 성장에 대해 고민하고 지속적으로 학습합니다.
-- 좋은 서비스를 만드는 개발자가 되고싶습니다.
+- 좋은 서비스를 만드는 개발자입니다.
 
 <br>
 <br>
@@ -57,7 +57,6 @@
 - [2023.11.24] 대한전자공학회 산업전자소사이어티 제 6회 ITC 창의융합 캡스톤 디자인 경진대회 우수상
 - [2023.12.04] 명지전문대학 컴퓨터공학과 캡스톤 경진대회 우수상
 
-### **✏️ Study**
 
 
 
