@@ -45,9 +45,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yudaeng&hide_title=true&show_icons=true&theme=graywhite" height="140"> 
 
 
-- 항상 유지보수하기 쉬운 코드를 개발하고 재사용성이 높은 코드를 개발합니다.
-- 끊임없이 성장에 대해 고민하고 지속적으로 학습합니다.
-- 좋은 서비스를 만드는 개발자입니다.
+- 유지보수하기 쉬운 코드를 작성하기 위해 노력합니다.
+- 지속적인 성장을 지향합니다. 
+- 소통과 협업을 중요시합니다.
 
 <br>
 <br>
